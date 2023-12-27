@@ -1,0 +1,43 @@
+/* Write your CSS here */
+h1 {
+  color: #1e293b;
+  font-size: 20px;
+  font-weight: 600;
+}
+.duration {
+  color: #1e293b;
+  font-size: 10px;
+  font-weight: 600;
+}
+.head-cont {
+  margin: 5px;
+  display: flex;
+  justify-content: space-between;
+}
+.description {
+  color: #1e293b;
+  font-size: 13px;
+  font-weight: 300;
+  margin: 5px;
+}
+.days-cont {
+  display: flex;
+}
+.clock {
+  margin-right: 2px;
+  height: 10px;
+  width: 10px;
+}
+.tags-cont {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 5px;
+}
+.tag {
+  color: #1e293b;
+  font-size: 12px;
+  background-color: silver;
+  padding: 5px;
+  margin: 2px;
+  border-radius: 7px;
+}
